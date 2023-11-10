@@ -4,6 +4,7 @@ Data Professional Professional Survey project is the dashboard created in MS Pow
 2. Salary Distribution based on the job role
 3. Happiness based on Work/Life balance and salary
 4. No of participants based on their geographic locations
+![Data Professional survey project](https://github.com/Harikrishnan-Nair/Data-Professional-Survey-Project/assets/95662379/14f08d68-14ae-4009-9e6b-75e671a78f6e)
 
 Key Insights:
 1.	Python and R are the most favourite programming languages among all the different roles of data professionals
